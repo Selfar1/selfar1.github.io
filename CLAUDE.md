@@ -1,6 +1,6 @@
 # selfar1.github.io
 
-Статичний сайт GitHub Pages `https://selfar1.github.io` (публічний репозиторій). Призначення - сторінки для Google Cloud Branding застосунку YouTube `YTUpload`: домашня `ytupload/` і політика `ytupload/privacy.html`.
+Статичний сайт GitHub Pages `https://selfar1.github.io` (публічний репозиторій). Призначення - сторінки для Google Cloud Branding: застосунок YouTube `YTUpload` (`ytupload/`, `ytupload/privacy.html`) і клієнт rclone для бекапу сайтів у Google Drive `ns-rclone` (`ns-rclone/`, `ns-rclone/privacy.html`).
 
 ## Контекст
 
